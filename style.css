@@ -215,7 +215,6 @@ nav {
     justify-content: space-between;
     gap: 1em;
     overflow-x: scroll;
-    border: 1px solid red;
 }
 
 .card {
