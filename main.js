@@ -36,12 +36,12 @@ esc.addEventListener('click', () => {
     container.classList.remove('blur');
 });
 
-searchModal.addEventListener('click', () => {
-    searchModal.classList.remove('show-search')
-    container.classList.remove('blur');
-});
+// searchModal.addEventListener('click', () => {
+//     searchModal.classList.remove('show-search')
+//     container.classList.remove('blur');
+// });
 
-// carousel {the tough one sigh!}
+// carousel {the tough one, sigh!}
 
 
 
